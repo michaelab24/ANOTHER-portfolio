@@ -1,10 +1,10 @@
 @import url("https://unpkg.com/@tailwindcss/typography@0.4.x/dist/typography.min.css");
 @import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
-@import url("https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hina+Mincho&display=swap");
 
 .cursive {
-  font-family: "Kaisei HarunoUmi", cursive;
-  font-weight: 700;
+  font-family: "Hina Mincho, cursive";
+  font-weight: 400px;
 }
 
 .pros img {

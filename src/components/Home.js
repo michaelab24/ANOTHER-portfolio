@@ -8,6 +8,9 @@ export default function Home() {
             <section className="relative flex justfy-center min-h-screen pt-12 lg:pt-64 px-8">
                 <h1 className="cursive home-name">Hello! I'm Michael</h1>
             </section>
+            <footer className="bg-blue-600 h-10">
+            <p>Made with love by Michael Barnes 🤘</p>
+            </footer>
         </main>
     )
 }

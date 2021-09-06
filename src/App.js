@@ -3,7 +3,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 // import SinglePost from "./components/SinglePost";
 // import Post from "./components/Post"
-import Projects from "./components/Projects"
+import Projects from "./components/Projects";
 import NavBar from "./components/NavBar";
 import Contact from "./components/Contact";
 

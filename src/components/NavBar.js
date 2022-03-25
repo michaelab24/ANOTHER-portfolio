@@ -1,6 +1,7 @@
 import React from "react"
 import { NavLink } from "react-router-dom"
 import { SocialIcon } from "react-social-icons"
+// import { VGithubIcon } from 'v-github-icon'
 
 export default function NavBar() {
     return (
@@ -46,6 +47,12 @@ export default function NavBar() {
                     target="_blank" 
                     fgColor="#fff" 
                     style={{ height: 35, width: 35 }}/> 
+                    {/* <VGithubIcon
+                    url="https://github.com/michaelab24"
+                    className="mr-4"
+                    target="_blank"
+                    fgColor="#fff"
+                    style={{ height: 35, width: 35 }}/> */}
                 </div>
             </div>
         </header>
